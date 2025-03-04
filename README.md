@@ -1,6 +1,5 @@
 Here's your enhanced GitHub `README.md` file with all the updated details:  
 
----
 
 # 👋 Hi, I'm Bandaru Lohith Kumar  
 
@@ -10,7 +9,6 @@ Here's your enhanced GitHub `README.md` file with all the updated details:
 
 📩 **Open to opportunities** in Blockchain, Web3, and Full-Stack Development.  
 
----
 
 ## 👨‍💻 About Me  
 
@@ -21,7 +19,6 @@ I am a **Blockchain Developer** with hands-on experience in **smart contract dev
 
 📍 **Internship:** FortuneBlink *(June 2023 - Present)*  
 
----
 
 ## 🔧 Tech Stack & Skills  
 
@@ -37,7 +34,6 @@ I am a **Blockchain Developer** with hands-on experience in **smart contract dev
 🚀 **Tools & Platforms**  
 ✅ Git | GitHub | Hardhat | Remix IDE | Docker | VS Code | Linux (Ubuntu WSL)  
 
----
 
 ## 🔥 Projects & Experience  
 
@@ -59,13 +55,11 @@ A **Decentralized Exchange (DEX)** for JIO Coin on **Polygon Amoy**.
 
 🔗 **GitHub Repository:** [Jio DEX Project](https://github.com/lohith20311/jio_dex_project)  
 
----
 
 ## 🚀 GitHub Stats  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lohith20311&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lohith20311&layout=compact&theme=radical)  
 
----
 
 ## 📫 Connect with Me  
 
